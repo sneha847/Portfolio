@@ -51,7 +51,7 @@ My strengths include:
 
 ## 🌐 Live Portfolio
 
-🔗 **Live Link:** *(Add your deployed link here)*
+🔗 **Live Link:** *(https://snehamahamuni.netlify.app)*
 
 ---
 
