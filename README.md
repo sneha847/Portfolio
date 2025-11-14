@@ -47,4 +47,24 @@ My strengths include:
 
 ---
 
+---
+
+## 🌐 Live Portfolio
+
+🔗 **Live Link:** *(Add your deployed link here)*
+
+---
+
+## 🧩 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sneha847/Portolio.git
+
+##📬 Contact
+
+Email: mahamunisneha66@gmail.com
+
+contact: +91 9370287311
+
 
