@@ -38,7 +38,7 @@ My strengths include:
 - Bootstrap / Tailwind CSS
 - TypeScript 
 
-### Backend *(if included)*:
+### Backend:
 - Python (Flask / FastAPI)  
 - REST APIs  
 
